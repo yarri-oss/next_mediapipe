@@ -112,6 +112,7 @@ const PixiComponent = () => {
             <Graphics draw={drawEdges} />
             <DynamicCoin speed={0.01} />
             <Text text="Click anywhere..." anchor={0.5} x={110} y={20} />
+            <Text text="Or Move Your Hands!" anchor={0.5} x={110} y={40} />
         </Stage>
     )
 }
