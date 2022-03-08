@@ -68,7 +68,7 @@ import observable from "../components/Observable";
         <Script src="https://cdn.jsdelivr.net/npm/@mediapipe/control_utils/control_utils.js" crossorigin="anonymous" strategy="beforeInteractive" />
         <Script src="https://cdn.jsdelivr.net/npm/@mediapipe/drawing_utils/drawing_utils.js" crossorigin="anonymous" strategy="beforeInteractive" />
         <Script src="https://cdn.jsdelivr.net/npm/@mediapipe/hands/hands.js" crossorigin="anonymous" strategy="beforeInteractive" />
-       <h1>Testing PixiJS &amp; Planck Physics</h1>
+       <h1>Testing MediaPipe &amp; PixiJS with Planck Physics</h1>
       <PlanckComponent />
       <video className="input_video" style={{visibility:"hidden"}}></video>
       <canvas className="output_canvas" width="128px" height="72px"></canvas>
