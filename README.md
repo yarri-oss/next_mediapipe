@@ -1,5 +1,5 @@
 # next_mediapipe
-Testing Mediapipe with NextJS/PIXIJS
+Testing Mediapipe with NextJS/PIXIJS. Online demo available at [next-mediapipe-one.vercel.app](https://next-mediapipe-one.vercel.app/)
 
 # Pixi.js example
 
